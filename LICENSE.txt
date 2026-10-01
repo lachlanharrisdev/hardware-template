@@ -1,0 +1,9 @@
+This project is dual-licensed under different terms for its software and
+hardware components. Higher items in the list override lower items.
+
+* `cad/` & `pcb/`: Licensed under the CERN-OHL-S-2.0 license. See
+  `LICENSE-CERN-OHL-S-2.0.txt`
+* `src/`, `docs/` & `/`: Licensed under the GPL-3.0 license. See
+  `LICENSE-GPL-3.0.txt`
+* Unless otherwise specified, all components are licensed under the GPL-3.0
+  license. See `LICENSE-GPL-3.0.txt`

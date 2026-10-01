@@ -2,7 +2,7 @@
 
 A repository template for hardware projects.
 
-## Repo Structure
+## Structure
 
 `assets/` contains demonstration images, videos and other multimedia used for
 secondary, illustrative or demonstrative purposes
@@ -18,8 +18,6 @@ specific documentation.
 firmware or in the firmware development process.
 
 `pcb/` contains CAD files specifically for PCB designs, especially KiCad files.
-
----
 
 ## License
 
