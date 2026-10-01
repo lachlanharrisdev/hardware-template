@@ -32,6 +32,8 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+# for bom.csv and other docs
+!docs/*.csv
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
